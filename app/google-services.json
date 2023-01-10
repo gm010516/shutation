@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89013795191",
+    "firebase_url": "https://bus-baewha-default-rtdb.firebaseio.com",
+    "project_id": "bus-baewha",
+    "storage_bucket": "bus-baewha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89013795191:android:0cf20098f38cb7f80d8972",
+        "android_client_info": {
+          "package_name": "com.example.shutation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89013795191-v9hur87q8aa4rub66ck2747g465eki98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFq5r0Q-7op0t9lzX3J_v6L00TUWZIauE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89013795191-v9hur87q8aa4rub66ck2747g465eki98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
