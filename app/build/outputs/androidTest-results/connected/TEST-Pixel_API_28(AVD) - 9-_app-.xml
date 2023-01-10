@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.shutation.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.255" timestamp="2022-10-22T12:37:02" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_API_28(AVD) - 9" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.example.shutation.ExampleInstrumentedTest" time="0.018" />
+</testsuite>

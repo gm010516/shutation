@@ -1,0 +1,68 @@
+# 2022-10-22T12:37:02.917Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.shutation"
+    test_method: "useAppContext"
+    start_time {
+      seconds: 1666442222
+      nanos: 516000000
+    }
+    end_time {
+      seconds: 1666442222
+      nanos: 607000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/yanggyeongmin/shutation/app/build/outputs/androidTest-results/connected/Pixel_API_28(AVD) - 9/logcat-com.example.shutation.ExampleInstrumentedTest-useAppContext.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/yanggyeongmin/shutation/app/build/outputs/androidTest-results/connected/Pixel_API_28(AVD) - 9/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/yanggyeongmin/shutation/app/build/outputs/androidTest-results/connected/Pixel_API_28(AVD) - 9/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/yanggyeongmin/shutation/app/build/outputs/androidTest-results/connected/Pixel_API_28(AVD) - 9/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/yanggyeongmin/shutation/app/build/outputs/androidTest-results/connected/Pixel_API_28(AVD) - 9/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
