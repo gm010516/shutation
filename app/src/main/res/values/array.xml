@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="busList">
+        <item>-선택 안함-</item>
+        <item>사직동 주민센터</item>
+        <item>경복궁역 1번 출구</item>
+        <item>광화문역 9번 출구</item>
+        <item>종각역 4번 출구</item>
+    </string-array>
+</resources>
